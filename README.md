@@ -1,4 +1,4 @@
-## Cucumber REST Steps
+# Cucumber REST Steps
 
 With this library you can use [Cucumber](https://cucumber.io) to test REST endpoints
 
